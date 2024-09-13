@@ -1,6 +1,6 @@
 ---
 title: "Southern Rockies Subregion Landscape Assessment"
-author: "TNC's LANDFIRE Team, Conservation Data Lab"
+author: "TNC's LANDFIRE Team and Garrett Knowlton"
 ---
 
 ## Goals of this demonstration
